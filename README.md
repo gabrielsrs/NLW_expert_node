@@ -1,2 +1,2 @@
-# NLW_expert_node
+# Polls
 Project from NLW Expert in nodeJS
